@@ -1,1 +1,1 @@
-Indexing C:\Users\loyde\Documents\ArcGIS\Projects\samplegit\samplegit.aprx
+Indexing C:\Users\loyde\Documents\ArcGIS\Projects\Sample-gis\samplegit.aprx
